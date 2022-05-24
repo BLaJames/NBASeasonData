@@ -1,0 +1,2 @@
+firstName,lastName,userName,password,userType,txtFile
+James,La,jbla,Jamesl30,FREE,NBAGoats

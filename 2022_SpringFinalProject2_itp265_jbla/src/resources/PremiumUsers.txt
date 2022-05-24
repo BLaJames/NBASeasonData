@@ -1,0 +1,2 @@
+firstName,lastName,userName,password,userType,PIN,txtFile
+James,La,laJames,Jamesl30,PREMIUM,3245,NBAlife
